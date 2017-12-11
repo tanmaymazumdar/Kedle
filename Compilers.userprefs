@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{370061E8-23D0-4FF9-BAAD-EFCA8FE44BB0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Tests/Program.cs" Line="12" Column="46" />
+      <File FileName="Code/Compiler.cs" Line="48" Column="50" />
+      <File FileName="Code/Token.cs" Line="1" Column="1" />
+      <File FileName="Code/Parser.cs" Line="13" Column="13" />
+      <File FileName="Tests/hello.cd" Line="14" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

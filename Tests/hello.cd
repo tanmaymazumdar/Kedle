@@ -1,0 +1,15 @@
+﻿var a;
+let b;
+const c;
+
+object Person = {
+    name = "",
+    age = 20;
+
+    new(n, a) {
+        name = n;
+        age = a;
+    }
+
+    get
+}
